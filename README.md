@@ -56,12 +56,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/lroquec/lroquec/output/snake.svg" alt="Snake animation" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lroquec&show_icons=true&locale=en&layout=compact" alt="lroquec" /></p>
-
+ <img src="https://raw.githubusercontent.com/lroquec/lroquec/output/snake.svg" alt="Snake animation" />
