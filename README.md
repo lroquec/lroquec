@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">I’m passionate about automation and everything it brings to the tech world!</h3>
+<h3 align="center">I’m passionate about automation and its transformative impact on the tech world! With a strong focus on continuous improvement, I thrive on optimizing processes, building scalable solutions, and staying ahead in the ever-evolving DevOps landscape. I believe in growing both professionally and personally to deliver impactful results.</h3>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
@@ -64,3 +64,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lroquec&show_icons=true&locale=en&layout=compact" alt="lroquec" /></p>
  <img src="https://raw.githubusercontent.com/lroquec/lroquec/output/snake.svg" alt="Snake animation" />
+
+ ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lroquec" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
